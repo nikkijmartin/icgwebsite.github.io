@@ -1,3 +1,3 @@
-# icgwebsite.github.io
+# nikkijmartin.github.io
 ============
 Website
